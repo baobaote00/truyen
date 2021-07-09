@@ -1,6 +1,13 @@
 {
   "dependencies": {
+    "alert": "^5.0.10",
+    "audio-generator": "^2.1.2",
+    "audio-speaker": "^1.5.1",
     "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "delay": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node src"
   }
 }
